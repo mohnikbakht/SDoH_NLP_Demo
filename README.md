@@ -24,7 +24,7 @@ Procedure of the NLP model training for the SDoH extraction downstream task. (a)
 ## Results
 
 <p align="center">
-<img src="https://github.com/mohnikbakht/SDoH_NLP_Demo/blob/main/figures/figure3.png" alt="Architecture figure" width="600"/>
+<img src="https://github.com/mohnikbakht/SDoH_NLP_Demo/blob/main/figures/figure5.png" alt="Architecture figure" width="600"/>
 </p>
 
 <p align="center">
